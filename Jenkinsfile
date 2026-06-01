@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone') {
             steps {
-                git 'https://github.com/YOUR_USERNAME/kumbh-ai.git'
+            git 'https://github.com/ashwinaade119/wordpress.git'
             }
         }
 
